@@ -31,6 +31,7 @@ INSTALLED_APPS = [
     'contactusform.apps.ContactusformConfig',
     'corsheaders',
     'bootstrap3',
+    'django_rename_app',
 ]
 
 MIDDLEWARE = [
